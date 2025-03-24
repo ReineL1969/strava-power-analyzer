@@ -3,7 +3,7 @@
 // Strava API credentials - replace with your own from Step 1
 const STRAVA_CLIENT_ID = '153121';
 const STRAVA_CLIENT_SECRET = '37e7ec823166b91d9541a39de17f4dfd78fef781YOUR_CLIENT_SECRET';
-const REDIRECT_URI = 'https://[your-username].github.io/strava-power-analyzer/callback.html';
+const REDIRECT_URI = 'https://reinel1969.github.io/strava-power-analyzer/callback.html';
 
 // Check if user is already authenticated
 function checkAuth()  {
